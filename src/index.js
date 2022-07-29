@@ -1,0 +1,1 @@
+import { adCard, searchSvg } from './markUp';
